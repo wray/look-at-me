@@ -1,7 +1,7 @@
 # Look At me
 ## Code Em Assignment - Middle Intermediate
 
-This is assignment is pretty free form. The objectives are to make sure you can put together a very simple webpage/site with custom HTML/CSS design from scratch (not Scratch the programming language, but on your own ;) ) using Git and potentially GitHub pages to publish.
+This assignment is pretty free form. The objectives are to make sure you can put together a very simple webpage/site with custom HTML/CSS design from scratch (not Scratch the programming language, but on your own ;) ) using Git and potentially GitHub pages to publish.
 
 For this assignment, you'll see a simple index.html page in the docs directory. And you can actually use Github pages to host the page for you so all can see your beautiful results, like [so](https://wray.github.io/look-at-me/).
 
