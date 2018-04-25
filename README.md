@@ -17,7 +17,7 @@ For this assignment, you'll see a simple index.html page in the docs directory. 
 * Adjust your repo settings to host on github.io.
 * Make a site, not just a page.
 * Make it device-aware (i.e. scales down for a phone -- hamburger menus and all).
-* Add in some JavaScript for some dynamic fun or call an API.
+* Add in JavaScript for some dynamic fun or call an API.
 * Suggest a re-design of our [aging](http://techemstudios.com) site.
 
 ## Rubric
